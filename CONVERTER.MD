@@ -21,7 +21,7 @@
 
 - Python to EXE:
   - Tener [Python Instalado](https://python.org)
-<br></br>
-   ```
- pip install auto-py-to-exe || pip3 install auto-py-to-exe
+  <br></br>
+  ```
+   pip install auto-py-to-exe || pip3 install auto-py-to-exe
    ```
