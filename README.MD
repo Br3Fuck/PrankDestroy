@@ -58,7 +58,11 @@
   - Descomprimirlo con [Winrar](https://www.winrar.es/descargas)
   - Y disfrutar de los archivos.
 
-- Thanks to:
+- **Extra:**
+
+  - Los virus estan configurados de una manera en que se den cuenta que es un virus, si quieren que se vea real lo pueden modificar a su gusto.
+
+- **Thanks to:**
 
   - [Thiago](https://github.com/hackingthiag0)
   - [VOID](https://github.com/lVoidi)
