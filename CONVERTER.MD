@@ -37,4 +37,4 @@
 
 - **Regresar al menu:**
   - [PrankDestroy](https://github.com/Br3Fuck/PrankDestroy)
-  - [Br3fuck Perfil](https://github.com/Br3Fuck)
+  - [Br3fuck Profile](https://github.com/Br3Fuck)
