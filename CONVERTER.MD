@@ -26,6 +26,7 @@
    pip install auto-py-to-exe || pip3 install auto-py-to-exe
    ```
    - Ir a tu terminal y poner:
+   <br></br>
    ```
    auto-py-to-exe
    ```
