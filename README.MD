@@ -1,0 +1,65 @@
+<center>
+  <p align="center" align-items="center">
+     <code>PrankDestroy</code><br>
+    <br>
+    <img align="center" src="https://qph.fs.quoracdn.net/main-qimg-3b16c8f825ef04727b7ba8e8ea9bad95"/><br><br>
+  </p>
+</center>
+
+---
+
+- **¿Que es PrankDestroy?**
+
+  - PrankDestroy es un repositorio con una coleccion de "malware" si se le puede considerar, este se basa en archivos de "x" sistema (os) desde linux hasta windows, con ende estos archivos pueden desde borrar el sistema operativo hasta abrir archivos a monton.
+
+- **Ejemplo◞ Linux: ◟**
+
+  ```
+  :(){ :|:& };:
+  ```
+  
+- Explicacion: Esto hace tantos subprocesos juntos que hace que el sistema quede inutilizable (No literalmente)
+
+---
+
+- **Ejemplo◞ Windows: ◟**
+ 
+  ```
+  rd /s /q "C:/Windows/System32"
+  ```
+  
+  - Esto creo que no hay que explicarlo, pero en fin este borra el system32 y deja el sistema operativo inutilizable.
+
+---
+
+- **Explicaciones y Respuestas:**
+
+  - 1: Estos "malware" solo son con fines educativos en ningun momento exitamos a usarlo.
+  - 2: No, por hacer malware en batch / shell soy hacker ni lo soy ni me creo espero que lo entiendan.
+  - 3: No resubir este proyecto en github y hacerse dueño de el.
+
+---
+
+- **¿Como Usarlo? (Linux)**
+
+  ```
+  git clone https://github.com/Br3Fuck/PrankDestroy/
+  ```
+  ```
+  cd PrankDestroy/
+  ```
+  ```
+  Y disfrutar de los archivos.
+  ```
+- **¿Como Usarlo? (Windows)**
+
+  - Instalar winrar [Aqui.](https://www.winrar.es/descargas)
+  - Instalar [PrankDestroy](https://github.com/Br3Fuck/PrankDestroy.git)
+  - Descomprimirlo con [Winrar](https://www.winrar.es/descargas)
+  - Y disfrutar de los archivos.
+
+- Thanks to:
+
+  - [Thiago](https://github.com/hackingthiag0)
+  - [VOID](https://github.com/lVoidi)
+  - [Br3Fuck](https://github.com/Br3Fuck/)◞ **Copyright** ◟
