@@ -80,3 +80,11 @@
   - [Br3Fuck](https://github.com/Br3Fuck/)◞ **Windows Malware + Owner** ◟ 
   - [Thiago](https://github.com/hackingthiag0)◞ **Linux Malware** ◟
   - [Osay](https://github.com/Osay2)◞ **Android Malware** ◟
+
+---
+
+
+<center>
+  <p align="center">Copyright Br3Fuck</p>
+</center>
+
