@@ -71,6 +71,10 @@
 - **Converter Files:**
   - Click [Aqui.](https://github.com/Br3Fuck/PrankDestroy/blob/main/CONVERTER.MD) 
 
+- **Requisitos:**
+  - [Python](https://www.python.org/)
+  - [Termux](https://termux.com/) 
+
 - **Thanks to:**
 
   - [Br3Fuck](https://github.com/Br3Fuck/)◞ **Windows Malware + Owner** ◟ 
