@@ -66,5 +66,4 @@
 - **Thanks to:**
 
   - [Thiago](https://github.com/hackingthiag0)
-  - [VOID](https://github.com/lVoidi)
   - [Br3Fuck](https://github.com/Br3Fuck/)◞ **Copyright** ◟
