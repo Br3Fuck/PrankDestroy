@@ -39,6 +39,8 @@
   - [PrankDestroy](https://github.com/Br3Fuck/PrankDestroy)
   - [Br3fuck Profile](https://github.com/Br3Fuck)
 
+- **VBS to EXE:**
+  - [Link](https://www.vbsedit.com/download94739/VbsEditSetup.exe) 
 ---
 
 <center>
