@@ -10,7 +10,7 @@
 
 - Batch to EXE
 - Pasos:
-<br>
+<br></br>
   - Entrar al [link](https://m.majorgeeks.com/mg/getmirror/bat_to_exe_converter,1.html)
   - `Se nos descargara un archivo "Bat_To_Exe_Converter_(Installer).exe" lo ejecutamos.`
   - `Seleccionamos el idioma "Ingles".`
