@@ -35,7 +35,7 @@
 - **Explicaciones y Respuestas:**
 
   - 1: Estos "malware" solo son con fines educativos en ningun momento exitamos a usarlo.
-  - 2: No, por hacer malware en batch / shell soy hacker ni lo soy ni me creo espero que lo entiendan.
+  - 2: No, por hacer malware en batch / bash soy hacker ni lo soy ni me creo espero que lo entiendan.
   - 3: No resubir este proyecto en github y hacerse dueño de el.
 
 ---
