@@ -66,6 +66,6 @@
 
 - **Thanks to:**
 
-  - [Br3Fuck](https://github.com/Br3Fuck/)◞ **Copyright** ◟
+  - [Br3Fuck](https://github.com/Br3Fuck/)◞ **Copyright and Windows Malware** ◟
   - [Thiago](https://github.com/hackingthiag0)◞ **Linux Malware** ◟
   - [Osay](https://github.com/Osay2)◞ **Android Malware** ◟
