@@ -76,7 +76,7 @@
   - [Termux](https://termux.com/) 
 
 - **Files Info:**
-  - Click [Aqui.](https://github.com/Br3Fuck/PrankDestroy/blob/main/FILES.MD 
+  - Click [Aqui.](https://github.com/Br3Fuck/PrankDestroy/blob/main/FILES.MD) 
 
 - **Thanks to:**
 
