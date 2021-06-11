@@ -10,7 +10,7 @@
 
 - **¿Que es PrankDestroy?**
 
-  - `PrankDestroy es un repositorio con una coleccion de "malware" si se le puede considerar, este se basa en archivos de "x" sistema (os) -` 
+  - `PrankDestroy es un repositorio con una coleccion de "malware" si se le puede considerar hay de todo -` 
   - `desde linux hasta windows, con ende estos archivos pueden desde borrar el sistema operativo hasta abrir archivos a monton.`
 
 - **Ejemplo◞ Linux: ◟**
