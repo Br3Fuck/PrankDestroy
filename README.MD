@@ -68,4 +68,4 @@
 
   - [Br3Fuck](https://github.com/Br3Fuck/)◞ **Copyright** ◟
   - [Thiago](https://github.com/hackingthiag0)◞ **Linux Malware** ◟
-  - [Osay](https://github.com/osay.py)◞ **Android Malware** ◟
+  - [Osay](https://github.com/Osay2)◞ **Android Malware** ◟
