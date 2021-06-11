@@ -68,6 +68,9 @@
   - `Los virus estan configurados de una manera en que se den cuenta que es un virus, si quieren -`
   - `que se vea real lo pueden modificar a su gusto. Esto se hace para prevenir daños accidentales.`
 
+- **Converter Files:**
+  - Click [Aqui.](https://github.com/Br3Fuck/PrankDestroy/blob/main/CONVERTER.MD) 
+
 - **Thanks to:**
 
   - [Br3Fuck](https://github.com/Br3Fuck/)◞ **Windows Malware + Owner** ◟ 
