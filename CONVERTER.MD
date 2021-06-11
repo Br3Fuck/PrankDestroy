@@ -31,3 +31,11 @@
    auto-py-to-exe
    ```
    - Hacer los pasos que te corresponden y listo!
+
+- Mas ayuda:
+  - [Telegram](https://t.me/br3fuck)
+  - [Instagram](https://www.instagram.com/br3fuck.simp.keyli/)
+
+- Regresar al menu:
+  - [PrankDestroy](https://github.com/Br3Fuck/PrankDestroy)
+  - [Br3fuck Perfil](https://github.com/Br3Fuck)
