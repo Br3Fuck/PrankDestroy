@@ -30,3 +30,4 @@
    ```
    auto-py-to-exe
    ```
+   - Hacer los pasos que te corresponden y listo!
