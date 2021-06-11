@@ -60,8 +60,8 @@
 
 - **Extra:**
 
-  - `Los virus estan configurados de una manera en que se den cuenta que es un virus, si quieren que se vea real`
-   `lo pueden modificar a su gusto. Esto se hace para prevenir daños accidentales y no causar problemas.`
+  - `Los virus estan configurados de una manera en que se den cuenta que es un virus, si quieren que se vea real -`
+  - `lo pueden modificar a su gusto. Esto se hace para prevenir daños accidentales y no causar problemas.`
 
 - **Thanks to:**
 
