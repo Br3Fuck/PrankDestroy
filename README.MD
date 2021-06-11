@@ -1,5 +1,5 @@
 <center>
-  <p>Fase Beta</p>
+  <p align="center">Fase Beta</p>
 </center>
 
 <center>
