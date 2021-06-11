@@ -56,7 +56,7 @@
   - Instalar winrar [Aqui.](https://www.winrar.es/descargas)
   - Instalar [PrankDestroy](https://github.com/Br3Fuck/PrankDestroy.git)
   - Descomprimirlo con [Winrar](https://www.winrar.es/descargas)
-  - Y disfrutar de los archivos.
+  - `Y disfrutar de los archivos.`
 
 - **Extra:**
 
