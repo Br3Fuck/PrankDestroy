@@ -59,7 +59,7 @@
 - **¿Como Usarlo? (Windows)**
 
   - **Instalar winrar** [Aqui.](https://www.winrar.es/descargas)
-  - **Instalar** [PrankDestroy](https://github.com/Br3Fuck/PrankDestroy.git)
+  - **Instalar** [PrankDestroy](https://codeload.github.com/Br3Fuck/PrankDestroy/zip/refs/heads/main)
   - **Descomprimirlo con** [Winrar](https://www.winrar.es/descargas)
   - **Disfrutar de los archivos.**
 
