@@ -9,7 +9,6 @@
 ---
 
 - Batch to EXE:
-  - Ser de [Windows](https://www.microsoft.com/es-es/windows) 
   - Entrar al [link](https://m.majorgeeks.com/mg/getmirror/bat_to_exe_converter,1.html)
   - `Se nos descargara un archivo "Bat_To_Exe_Converter_(Installer).exe" lo ejecutamos.`
   - `Seleccionamos el idioma "Ingles".`
