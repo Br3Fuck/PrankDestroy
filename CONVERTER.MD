@@ -8,7 +8,7 @@
 
 ---
 
-- Batch to EXE:
+- **Batch to EXE:**
   - Entrar al [link](https://m.majorgeeks.com/mg/getmirror/bat_to_exe_converter,1.html)
   - `Se nos descargara un archivo "Bat_To_Exe_Converter_(Installer).exe" lo ejecutamos.`
   - `Seleccionamos el idioma "Ingles".`
@@ -18,7 +18,7 @@
   - `Dentro ya podremos configurar el bat a nuestro gusto`
   - `Espero os haya servido owo`
 
-- Python to EXE:
+- **Python to EXE:**
   - Tener [Python Instalado](https://python.org)
   <br></br>
    ```
@@ -31,10 +31,10 @@
    ```
    - Hacer los pasos que te corresponden y listo!
 
-- Mas ayuda:
+- **Mas ayuda:**
   - [Telegram](https://t.me/br3fuck)
   - [Instagram](https://www.instagram.com/br3fuck.simp.keyli/)
 
-- Regresar al menu:
+- **Regresar al menu:**
   - [PrankDestroy](https://github.com/Br3Fuck/PrankDestroy)
   - [Br3fuck Perfil](https://github.com/Br3Fuck)
