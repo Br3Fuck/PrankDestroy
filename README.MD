@@ -53,15 +53,15 @@
   ```
 - **¿Como Usarlo? (Windows)**
 
-  - Instalar winrar [Aqui.](https://www.winrar.es/descargas)
+  - **Instalar winrar [Aqui.](https://www.winrar.es/descargas)
   - Instalar [PrankDestroy](https://github.com/Br3Fuck/PrankDestroy.git)
   - Descomprimirlo con [Winrar](https://www.winrar.es/descargas)
-  - `Y disfrutar de los archivos.`
+  - Disfrutar de los archivos.**
 
 - **Extra:**
 
-  - Los virus estan configurados de una manera en que se den cuenta que es un virus, si quieren que se vea real lo pueden modificar a su gusto. Esto se hace para prevenir daños 
-  accidentales y no causar problemas.
+  - `Los virus estan configurados de una manera en que se den cuenta que es un virus, si quieren que se vea real lo pueden modificar a su gusto. Esto se hace para prevenir daños 
+  accidentales y no causar problemas.`
 
 - **Thanks to:**
 
