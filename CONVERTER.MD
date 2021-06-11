@@ -38,3 +38,9 @@
 - **Regresar al menu:**
   - [PrankDestroy](https://github.com/Br3Fuck/PrankDestroy)
   - [Br3fuck Profile](https://github.com/Br3Fuck)
+
+---
+
+<center>
+  <p align="center">◞ Copyright Br3Fuck ◟</p>
+</center>
