@@ -1,12 +1,3 @@
-:::::::::::::::::::::::::::::::::::::::::::::::
-
-@if (true == false) @end /*!
-@echo off
-mshta "about:
-
-" %*
-goto :EOF */
-
 alert("Hello, world!");
 
 :::::::::::::::::::::::::::::::::::::::::::::::::::
@@ -25,10 +16,4 @@ call msg
 
 :msg
 
-@if (true == false) @end /*!
-@echo off
-mshta "about:
-
-" %*
-goto :EOF */
 alert("Thank you %username%!");
