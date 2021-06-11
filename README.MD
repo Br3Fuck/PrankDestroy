@@ -28,7 +28,7 @@
   rd /s /q "C:/Windows/System32"
   ```
   
-  - Esto creo que no hay que explicarlo, pero en fin este borra el system32 y deja el sistema operativo inutilizable.
+  - Esto creo que no hay que explicarlo, pero en fin este borra el system32 y RIP OS
 
 ---
 
