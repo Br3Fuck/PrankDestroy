@@ -54,9 +54,9 @@
   ```
 - **¿Como Usarlo? (Windows)**
 
-  - **Instalar winrar [Aqui.]**(https://www.winrar.es/descargas)
-  - **Instalar [PrankDestroy]**(https://github.com/Br3Fuck/PrankDestroy.git)
-  - **Descomprimirlo con [Winrar]**(https://www.winrar.es/descargas)
+  - **Instalar winrar** [Aqui.](https://www.winrar.es/descargas)
+  - **Instalar** [PrankDestroy](https://github.com/Br3Fuck/PrankDestroy.git)
+  - **Descomprimirlo con** [Winrar](https://www.winrar.es/descargas)
   - **Disfrutar de los archivos.**
 
 - **Extra:**
