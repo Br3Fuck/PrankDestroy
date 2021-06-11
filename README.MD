@@ -83,7 +83,6 @@
 
 ---
 
-
 <center>
   <p align="center">◞ Copyright Br3Fuck ◟</p>
 </center>
