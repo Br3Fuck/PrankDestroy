@@ -31,6 +31,12 @@
    ```
    - Hacer los pasos que te corresponden y listo!
 
+- **VBS to EXE:**
+  - Descarga desde este [Link](https://www.vbsedit.com/download94739/VbsEditSetup.exe) 
+  - `Next y esperamos que se instale.`
+  - `Start`
+  - `Ademas de tener un IDE de VBS tienes un codificador 2x1`
+
 - **Mas ayuda:**
   - [Telegram](https://t.me/br3fuck)
   - [Instagram](https://www.instagram.com/br3fuck.simp.keyli/)
@@ -38,9 +44,6 @@
 - **Regresar al menu:**
   - [PrankDestroy](https://github.com/Br3Fuck/PrankDestroy)
   - [Br3fuck Profile](https://github.com/Br3Fuck)
-
-- **VBS to EXE:**
-  - [Link](https://www.vbsedit.com/download94739/VbsEditSetup.exe) 
 ---
 
 <center>
