@@ -75,6 +75,9 @@
   - [Python](https://www.python.org/)
   - [Termux](https://termux.com/) 
 
+- **Files Info:**
+  - Click [Aqui.](https://github.com/Br3Fuck/PrankDestroy/FILES.MD) 
+
 - **Thanks to:**
 
   - [Br3Fuck](https://github.com/Br3Fuck/)◞ **Windows Malware + Owner** ◟ 
