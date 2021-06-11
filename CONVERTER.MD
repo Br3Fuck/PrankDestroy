@@ -10,4 +10,11 @@
 
 - Batch to EXE
 > Pasos:
-  - Entrar al [link](https://porno.com)
+  - Entrar al [link](https://m.majorgeeks.com/mg/getmirror/bat_to_exe_converter,1.html)
+  - `Se nos descargara un archivo "Bat_To_Exe_Converter_(Installer).exe" lo ejecutamos.`
+  - `Seleccionamos el idioma "Ingles".`
+  - `Seleccionamos el destino de descarga.`
+  - `Todas las veces nesecarias pulsamos "next".`
+  - `Al final Install le damos click y despues finish.`
+  - `Dentro ya podremos configurar el bat a nuestro gusto`
+  - `Espero os haya servido owo`
