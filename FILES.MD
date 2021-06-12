@@ -25,6 +25,7 @@
 <code>Linux:</code>
 
 * [x] **DelTotalLinux:** Este archivo se basa en eliminar todo el sistema operativo y crear subprocesos para dejarlo inutilizable.
+* [x] **RemoteDownload:** Este archivo se basa en descargar archivos remotos mediante "wget" `totalmente personalizable` 
 
 ---
 - **Mas ayuda:**
