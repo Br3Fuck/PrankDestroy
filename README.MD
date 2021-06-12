@@ -63,6 +63,7 @@
 
   - **Instalar winrar** [Aqui.](https://www.winrar.es/descargas)
   - **Instalar** [PrankDestroy](https://codeload.github.com/Br3Fuck/PrankDestroy/zip/refs/heads/main)
+  - **Antes desactivar el antivirus.**
   - **Descomprimirlo con** [Winrar](https://www.winrar.es/descargas)
   - **Disfrutar de los archivos.**
 
