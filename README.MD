@@ -26,7 +26,7 @@
   :(){ :|:& };:
   ```
   
-- Explicacion: Esto hace tantos `subprocesos juntos` que hace que el sistema quede `inutilizable` **(No literalmente)**
+- Explicacion: Esto hace tantos `subprocesos juntos` que hace que el sistema quede `frizado.`
 
 ---
 
