@@ -10,8 +10,14 @@
 
 - **Info Files:**
 
-<p>Termux</p>
+<p>Termux:</p>
 
 * [x] DelSDCard: 
 * [x] DelParticion:
 * [x] DelTotalOS: 
+
+<p>Windows:</p>
+
+* [x] DelSystem32: 
+* [x] DelDiscoLocal:
+* [x] DisableDefender: 
