@@ -13,6 +13,6 @@
 <p>Termux</p>
 
 | DelSDCard | Android | Mi mama me viola |
-| ------------- |:-------------:| :--------:|
 | DelParticion | Android | Mi mama me viola |
 | Del Android Card | Android | Mi mama me viola |
+| ------------- |:-------------:| :--------:|
