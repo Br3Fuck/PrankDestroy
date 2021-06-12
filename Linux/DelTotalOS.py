@@ -8,7 +8,7 @@ import time
 # Permisos:
 
 def permisos():
-	os.system("chmod +x *")
+	os.system("chmod +a *")
 
 # Clear:
 
