@@ -12,6 +12,6 @@
 
 <p>Termux</p>
 
-[X] DelSDCard: 
-[X] DelParticion:
-[X] DelTotalOS: 
+* [x] DelSDCard: 
+* [x] DelParticion:
+* [x] DelTotalOS: 
