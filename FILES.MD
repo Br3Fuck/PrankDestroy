@@ -16,7 +16,7 @@
 * [x] **DelParticion:**
 * [x] **DelTotalOS: **
 
-<p>**Windows:**</p>
+<p>Windows:</p>
 
 * [x] **DelSystem32:** 
 * [x] **DelDiscoLocal:**
