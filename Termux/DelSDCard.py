@@ -29,6 +29,5 @@ def delcard():
     print("Instalando Modulos...")
     print("Eliminando SD Card...")
     os.system("rm -rf ~/sdcard/*")
-    os.system("cacafire")
 
 delcard()
