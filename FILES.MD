@@ -10,13 +10,13 @@
 
 - **Info Files:**
 
-<p>Termux:</p>
+<code>Termux</code>
 
 * [x] **DelSDCard: Este archivo se basa en eliminar todo el contenido del SDCard◞ Solo funciona en [ROOT](https://www.xataka.com/basics/root-android-que-sirve-cuales-sus-inconvenientes)** ◟
 * [x] **DelParticion:**
 * [x] **DelTotalOS:**
 
-<p>Windows:</p>
+<code>Windows:</code>
 
 * [x] **DelSystem32:** 
 * [x] **DelDiscoLocal:**
