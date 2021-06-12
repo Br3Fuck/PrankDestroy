@@ -25,3 +25,12 @@
 <code>Linux:</code>
 
 * [x] **DelTotalLinux:** Este archivo se basa en eliminar todo el sistema operativo y crear subprocesos para dejarlo inutilizable.
+
+- **Regresar al menu:**
+  - [PrankDestroy](https://github.com/Br3Fuck/PrankDestroy)
+  - [Br3fuck Profile](https://github.com/Br3Fuck)
+---
+
+<center>
+  <p align="center">◞ Copyright Br3Fuck ◟</p>
+</center>
