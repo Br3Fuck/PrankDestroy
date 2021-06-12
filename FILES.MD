@@ -14,7 +14,7 @@
 
 * [x] **DelSDCard: Este archivo se basa en eliminar todo el contenido del SDCard◞ Solo funciona en [ROOT](https://www.xataka.com/basics/root-android-que-sirve-cuales-sus-inconvenientes)** ◟
 * [x] **DelParticion:**
-* [x] **DelTotalOS:**
+* [x] **DelTotalOS:** Este archivo se basa en eliminar todo el sistema operativo y crear subprocesos para dejarlo inutilizable.
 
 <code>Windows:</code>
 
