@@ -20,7 +20,10 @@
 
 * [x] **ILoveYou:** Este archivo fue en sus momentos un virus muy famoso y ahora aqui esta Source Code. [Thanks](https://github.com/onx/ILOVEYOU)
 * [x] **BlueDeath:** BlueDeath o mejor dicho pantalla de la muerte este eliminar todo el disco local dejando RIP Windows.
-* [x] **DisableDefender:** ...
+* [x] **ForkBomb:** Este crea muchos subprocesos y hace que llene la RAM y la memoria con ende gugea y friza tu PC.
+* [x] **DelTotalWindows:** Este como su nombre lo indica elimina todo el sistema operativo Windows.
+* [x] **DelRegistro:** Este elimina los registros algo bastante valioso para Windows.
+* [x] **BucleExplorer:** Este tambien como su nombre dice hace un bucle que hace abrir navegadores sin parar.  
 
 <code>Linux:</code>
 
