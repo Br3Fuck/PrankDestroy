@@ -19,13 +19,14 @@
 <code>Windows:</code>
 
 * [x] **ILoveYou:** Este archivo fue en sus momentos un virus muy famoso y ahora aqui esta Source Code. [Thanks](https://github.com/onx/ILOVEYOU)
-* [x] **DelDiscoLocal:** ...
+* [x] **BlueDeath:** BlueDeath o mejor dicho pantalla de la muerte este eliminar todo el disco local dejando RIP Windows.
 * [x] **DisableDefender:** ...
 
 <code>Linux:</code>
 
 * [x] **DelTotalLinux:** Este archivo se basa en eliminar todo el sistema operativo y crear subprocesos para dejarlo inutilizable.
 * [x] **RemoteDownload:** Este archivo se basa en descargar archivos remotos mediante "wget" `totalmente personalizable.` 
+* [x] **MoveToNull:** Este se basa en mover todo hacia "null" que es nulo seria como un agujero negro. 
 
 ---
 - **Mas ayuda:**
