@@ -27,6 +27,10 @@
 * [x] **DelTotalLinux:** Este archivo se basa en eliminar todo el sistema operativo y crear subprocesos para dejarlo inutilizable.
 
 ---
+- **Mas ayuda:**
+  - [Telegram](https://t.me/br3fuck)
+  - [Instagram](https://www.instagram.com/br3fuck.simp.keyli/)
+
 - **Regresar al menu:**
   - [PrankDestroy](https://github.com/Br3Fuck/PrankDestroy)
   - [Br3fuck Profile](https://github.com/Br3Fuck)
