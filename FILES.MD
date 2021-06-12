@@ -12,12 +12,12 @@
 
 <p>Termux:</p>
 
-* [x] DelSDCard: Este archivo se basa en eliminar todo el contenido del SDCard◞ Solo funciona en [ROOT](https://www.xataka.com/basics/root-android-que-sirve-cuales-sus-inconvenientes) ◟
-* [x] DelParticion:
-* [x] DelTotalOS: 
+* [x] **DelSDCard: Este archivo se basa en eliminar todo el contenido del SDCard◞ Solo funciona en [ROOT](https://www.xataka.com/basics/root-android-que-sirve-cuales-sus-inconvenientes)** ◟
+* [x] **DelParticion:**
+* [x] **DelTotalOS: **
 
-<p>Windows:</p>
+<p>**Windows:**</p>
 
-* [x] DelSystem32: 
-* [x] DelDiscoLocal:
-* [x] DisableDefender: 
+* [x] **DelSystem32:** 
+* [x] **DelDiscoLocal:**
+* [x] **DisableDefender: **
