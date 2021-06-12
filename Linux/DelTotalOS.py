@@ -15,8 +15,6 @@ def permisos():
 def clear():
     os.system('cls' if os.name == 'nt' else 'clear')
 
-    
-
 # Deleted System:
 
 def deleted():
