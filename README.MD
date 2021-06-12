@@ -17,6 +17,9 @@
   - `PrankDestroy es un repositorio con una coleccion de "malware" si se le puede considerar hay de todo -` 
   - `desde linux hasta windows, con ende estos archivos pueden desde borrar el sistema operativo o peor.`
 
+- **AVISO**
+  - Se recomienda mirar el repositorio con "90% de zoom" para mejor experiencia◞ **Solo PC** ◟  
+
 - **Ejemplo◞ Linux: ◟**
 
   ```
